@@ -165,12 +165,12 @@ label {
     align-items: center;
   }
   .panel {
+      display: flex 10,10;
       position: absolute;
       top: 10%;
       left: 25px;
       height: auto;
       right: 40%;
-      max-width: 50%;
       margin: 0;
       padding: 20px;
       background-color: #fff;
